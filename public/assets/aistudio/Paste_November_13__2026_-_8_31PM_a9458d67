@@ -1,0 +1,1238 @@
+PROJET DE REFONTE INTÉGRALE DU SITE WEB OFFICIEL DE HIGHER GLORY TECHNOLOGIES
+
+MISSION GÉNÉRALE
+
+Tu es une agence numérique professionnelle spécialisée dans la création de sites web corporate haut de gamme, composée de développeurs Full Stack seniors, d'experts UI/UX, de spécialistes SEO, d'experts en identité visuelle et d'analystes en stratégie digitale.
+
+Tu es chargé de réaliser une refonte intégrale du site officiel de l'entreprise HIGHER GLORY TECHNOLOGIES, basée à Douala au Cameroun.
+
+ATTENTION : je ne veux pas d'un site générique créé à partir de quelques informations approximatives.
+
+Je veux que tu effectues d'abord un véritable travail de recherche sur l'entreprise, que tu explores son ancien site, que tu récupères autant que possible ses ressources originales et que tu construises ensuite un nouveau site professionnel en t'appuyant sur les informations et les éléments graphiques authentiques de l'entreprise.
+
+Le nouveau site doit donner l'impression d'être le travail d'une agence web professionnelle mandatée par HIGHER GLORY TECHNOLOGIES.
+
+Tu dois effectuer toi-même les recherches, l'analyse, l'extraction des ressources, la conception et le développement.
+
+Ne te contente pas de décrire ce que tu pourrais réaliser. Produis le projet réel.
+
+PARTIE 1 — RECHERCHE ET DOCUMENTATION DE L'ENTREPRISE
+
+Cette première étape est obligatoire.
+
+Avant de commencer à développer le site, tu dois comprendre précisément l'entreprise.
+
+1.1. Sources officielles à consulter
+
+Site officiel :
+
+https://higherglorytechnologies.com/
+
+Explore particulièrement les pages suivantes :
+
+PAGE D'ACCUEIL :
+https://higherglorytechnologies.com/
+
+NOS SOLUTIONS :
+https://higherglorytechnologies.com/?page_id=27
+
+NOS CLIENTS :
+https://higherglorytechnologies.com/?page_id=28
+
+ÉVÉNEMENTS :
+https://higherglorytechnologies.com/?page_id=35
+
+CONTACT :
+https://higherglorytechnologies.com/?page_id=37
+
+ANCIEN CATALOGUE DE PRODUITS EVOLIS :
+https://higherglorytechnologies.com/?page_id=142
+
+Ne te limite pas à ces URL.
+
+Explore également :
+
+Les différentes rubriques accessibles depuis le menu.
+
+Les sous-rubriques.
+
+Les pages de catégories.
+
+Les éventuelles fiches produits.
+
+Les pages contenant des images.
+
+Les archives et publications utiles.
+
+Les liens externes vers les fiches techniques des équipements.
+
+Examine le code HTML, les feuilles de style CSS et les ressources du site lorsque tu en as la possibilité.
+
+1.2. Recherche complémentaire
+
+Effectue également une recherche sur Internet concernant HIGHER GLORY TECHNOLOGIES.
+
+Recherche notamment :
+
+Son historique.
+
+Son secteur d'activité.
+
+Ses domaines d'expertise.
+
+Ses produits.
+
+Ses prestations.
+
+Ses types de clients.
+
+Ses fabricants de référence.
+
+Ses solutions technologiques.
+
+Son positionnement commercial.
+
+Ses coordonnées professionnelles.
+
+Ses éventuelles réalisations.
+
+Ses événements et actualités.
+
+Consulte les éventuels profils professionnels de l'entreprise et les autres sources publiques pertinentes.
+
+Priorité des sources :
+
+Site officiel.
+
+Publications officielles de l'entreprise.
+
+Catalogues et fiches produits.
+
+Profils professionnels de l'entreprise.
+
+Sources externes fiables.
+
+Tu dois distinguer les informations provenant de l'entreprise de celles provenant d'annuaires ou d'autres sites.
+
+Ne considère pas une affirmation d'un annuaire comme une information officiellement validée.
+
+1.3. Informations déjà connues sur l'entreprise
+
+Utilise les informations suivantes comme point de départ de tes recherches.
+
+Identification
+
+Nom : HIGHER GLORY TECHNOLOGIES
+
+Signature :
+THE TECHNOLOGY FOR THE NEXT GENERATION
+
+Activité :
+Fourniture et intégration de solutions matérielles et logicielles professionnelles.
+
+Localisation :
+Douala, Cameroun.
+
+Présentation de l'entreprise
+
+HIGHER GLORY TECHNOLOGIES est une entreprise qui accompagne les entreprises, les organisations et les institutions dans l'acquisition et l'intégration de solutions technologiques.
+
+Elle propose des équipements et logiciels destinés notamment à l'identification des personnes, à l'impression de cartes et badges, à la traçabilité des produits par codes-barres et RFID ainsi qu'à la gestion des points de vente.
+
+Elle se positionne comme un fournisseur de solutions matérielles et logicielles clés en main.
+
+L'entreprise met également en avant son accompagnement avant-vente et après-vente.
+
+Domaines d'activité identifiés
+
+Les domaines suivants sont à étudier et à présenter lorsqu'ils sont confirmés :
+
+Impression de cartes PVC.
+
+Impression de badges professionnels.
+
+Impression d'étiquettes.
+
+Lecture de codes-barres.
+
+Identification RFID.
+
+Traçabilité.
+
+Gestion des points de vente.
+
+Contrôle d'accès.
+
+Vidéosurveillance.
+
+Serveurs et équipements informatiques.
+
+Matériels réseaux.
+
+Logiciels et applications.
+
+Projets technologiques personnalisés.
+
+Compteuses de billets.
+
+Sécurisation documentaire.
+
+Gestion électronique des documents.
+
+Identification biométrique et enrôlement sécurisé.
+
+Les derniers domaines doivent être vérifiés avec des sources supplémentaires avant d'être présentés comme des prestations commerciales actuelles.
+
+Marques identifiées sur le site
+
+Le site officiel mentionne notamment :
+
+Evolis.
+
+Zebra.
+
+Datacard.
+
+Fargo by HID.
+
+Magicard.
+
+CardPresso.
+
+Sogedex.
+
+Datalogic.
+
+Honeywell.
+
+Unitech.
+
+CipherLab.
+
+Sato.
+
+TSC.
+
+Star.
+
+Epson.
+
+Toshiba Tec.
+
+Aures.
+
+Elo Touch.
+
+Ces marques constituent des références de fabricants mentionnées sur le site. Ne prétends pas que HIGHER GLORY TECHNOLOGIES est distributeur exclusif ou partenaire officiellement certifié sans preuve.
+
+Exemples de produits identifiés dans l'ancien catalogue
+
+Evolis Agilia.
+
+Evolis Primacy 2.
+
+Evolis Zenius.
+
+Evolis Quantum.
+
+Evolis Securion.
+
+Imprimantes de cartes PVC.
+
+Encodeurs RFID.
+
+Consommables et rubans d'impression.
+
+Modules de lamination.
+
+Recherche les autres produits du catalogue et conserve les descriptions et références réellement disponibles.
+
+IMPORTANT : l'ancien catalogue ne garantit pas la disponibilité actuelle des produits. Ne présente pas les références historiques comme étant forcément disponibles aujourd'hui.
+
+1.4. Coordonnées à vérifier
+
+Téléphones affichés sur le site :
+
++237 696 30 24 79
+
++237 670 72 41 59
+
+E-mail affiché :
+infos@higherglorytechnologies.com
+
+Horaires affichés :
+Lundi au samedi : 08h00 à 18h00.
+
+Zone géographique :
+Douala, Cameroun.
+
+Adresse détaillée :
+À vérifier. Certaines sources publiques mentionnent Akwa et d'autres Bépanda. Ne choisis pas arbitrairement une adresse comme étant l'adresse officielle.
+
+Vérifie également si des liens de réseaux sociaux officiels sont présents dans le site existant.
+
+PARTIE 2 — EXTRACTION DES RESSOURCES DU SITE ORIGINAL
+
+CETTE PARTIE EST L'UNE DES PLUS IMPORTANTES DU PROJET.
+
+Je ne veux pas que tu remplaces systématiquement les images du site actuel par des images génériques provenant d'Internet.
+
+Tu dois récupérer et réutiliser autant que possible les ressources authentiques déjà présentes sur le site de HIGHER GLORY TECHNOLOGIES.
+
+Tu dois te comporter comme un développeur chargé de récupérer les ressources d'un ancien site avant sa migration vers une nouvelle architecture.
+
+2.1. Extraction du logo original
+
+Récupère le véritable logo de HIGHER GLORY TECHNOLOGIES.
+
+URL actuellement identifiée :
+
+https://higherglorytechnologies.com/wp-content/uploads/2022/06/cropped-logo-higherglory.png
+
+Télécharge le fichier original si accessible.
+
+Vérifie :
+
+Sa résolution.
+
+Son format.
+
+Sa transparence.
+
+Ses dimensions.
+
+Ses couleurs.
+
+Ses proportions.
+
+Conserve le logo original.
+
+Ne redessine pas le logo avec une IA.
+Ne remplace pas le logo par du texte.
+Ne modifie pas les couleurs.
+Ne déforme pas les proportions.
+
+Recherche également d'autres versions éventuelles :
+
+Logo horizontal.
+
+Logo secondaire.
+
+Logo adapté au fond sombre.
+
+Favicon.
+
+Icône de marque.
+
+Utilise la version appropriée selon l'emplacement du site.
+
+2.2. Extraction des photographies
+
+Parcours les différentes pages de l'ancien site et récupère les photographies réutilisables.
+
+Tu dois rechercher en particulier :
+
+Les imprimantes à cartes PVC.
+
+Les équipements Evolis.
+
+Les imprimantes à étiquettes.
+
+Les scanners.
+
+Les lecteurs de codes-barres.
+
+Les lecteurs RFID.
+
+Les équipements de point de vente.
+
+Les terminaux professionnels.
+
+Les équipements de contrôle d'accès.
+
+Les équipements de vidéosurveillance.
+
+Les serveurs.
+
+Les matériels réseaux.
+
+Les équipements informatiques.
+
+Les photographies illustrant les prestations.
+
+Récupère les photos réellement présentes sur l'ancien site.
+
+Ne te limite pas aux images visibles sur la page d'accueil.
+
+Explore les pages de produits et les anciennes catégories.
+
+2.3. Extraction de la bannière et des images Hero
+
+La page d'accueil actuelle contient une bannière sombre avec des effets lumineux rouges et des équipements technologiques.
+
+Recherche les fichiers originaux qui composent cette bannière.
+
+Examine :
+
+Les images d'arrière-plan CSS.
+
+Les images des sections Hero.
+
+Les éventuels sliders.
+
+Les images en pleine largeur.
+
+Les images intégrées dans le thème WordPress.
+
+Récupère les fichiers originaux lorsque possible.
+
+La bannière historique constitue une référence graphique importante pour la refonte.
+
+Tu peux la moderniser, mais privilégie les ressources originales de l'entreprise.
+
+2.4. Extraction des logos de fabricants
+
+Récupère les logos des fabricants présents dans les anciennes pages.
+
+Il faut notamment rechercher les logos des marques suivantes :
+
+Evolis, Zebra, Datacard, HID, Magicard, CardPresso, Sogedex, Datalogic, Honeywell, Unitech, CipherLab, Sato, TSC, Star, Epson, Toshiba Tec, Aures et Elo Touch.
+
+Vérifie leur qualité et conserve leurs proportions originales.
+
+Ne génère pas de faux logos.
+
+Ne présente pas ces marques comme partenaires certifiés si cette information n'est pas démontrée.
+
+2.5. Extraction des logos de clients
+
+Consulte impérativement :
+
+https://higherglorytechnologies.com/?page_id=28
+
+Cette page contient une rubrique « Nous ont fait confiance » avec plusieurs logos.
+
+Identifie et récupère les ressources disponibles.
+
+Certains noms visibles dans l'ancienne page comprennent notamment :
+
+CICC.
+
+UBC PLC.
+
+Pia Soft Box.
+
+G4S.
+
+AXA.
+
+SIC Cacaos.
+
+CIMAF.
+
+UBA.
+
+Zenithe Insurance.
+
+D'autres références visibles dans la page.
+
+Conserve les fichiers originaux lorsqu'ils sont accessibles.
+
+IMPORTANT :
+
+Les logos affichés historiquement ne doivent pas automatiquement être interprétés comme des contrats ou références commerciales actuellement actifs.
+
+Prévois une section de références clients configurable et demande une validation avant publication des logos.
+
+2.6. Extraction des icônes et ressources techniques
+
+Récupère également, lorsque disponibles :
+
+Les icônes du site.
+
+Les icônes de réseaux sociaux.
+
+Le favicon.
+
+Les images de chargement.
+
+Les éventuels fichiers SVG.
+
+Les polices utilisées.
+
+Les textures.
+
+Les illustrations.
+
+Les images de fond.
+
+Les éléments graphiques du thème.
+
+Les éventuels fichiers de présentation de l'entreprise.
+
+Ne récupère pas aveuglément les éléments décoratifs du thème WordPress s'ils appartiennent au thème et ne représentent pas l'identité de l'entreprise.
+
+2.7. Méthode technique de récupération
+
+Si le site fonctionne sous WordPress, examine également :
+
+Le répertoire wp-content/uploads.
+
+Les différentes années et sous-répertoires d'images.
+
+La médiathèque WordPress.
+
+Les métadonnées des médias.
+
+Le fichier sitemap.
+
+Les fichiers CSS.
+
+Les fichiers JavaScript.
+
+Les images déclarées en background-image.
+
+Les attributs src et srcset des images.
+
+Les images lazy-loaded.
+
+Les éventuelles API publiques WordPress.
+
+Lorsque c'est accessible, explore notamment :
+
+https://higherglorytechnologies.com/wp-json/wp/v2/media?per_page=100
+
+Parcours les pages de résultats pour retrouver un maximum de médias.
+
+Examine également les autres types de ressources accessibles.
+
+Ne te contente pas de télécharger les 10 premières images visibles.
+
+2.8. Organisation des ressources récupérées
+
+Crée une organisation claire dans le projet :
+
+public/
+assets/
+logo/
+hero/
+products/
+printers/
+labels/
+barcode/
+rfid/
+pos/
+brands/
+clients/
+services/
+icons/
+backgrounds/
+fonts/
+
+Préserve les noms originaux des fichiers lorsqu'ils sont significatifs.
+
+Crée également un fichier :
+
+ASSETS_MANIFEST.json
+
+Ce fichier doit recenser pour chaque ressource :
+
+Nom du fichier.
+
+URL d'origine.
+
+Emplacement local.
+
+Type de ressource.
+
+Dimensions.
+
+Page d'origine.
+
+Utilisation envisagée.
+
+Source et statut de vérification des droits d'utilisation.
+
+Préserve les images en haute résolution.
+
+Ne transforme pas les images originales de manière destructive.
+
+2.9. Cas où une ressource est inaccessible
+
+Si une image ou un fichier ne peut pas être récupéré :
+
+Indique clairement la ressource manquante.
+
+Conserve son URL source dans le manifeste si elle est connue.
+
+Ne prétends pas avoir extrait un fichier que tu n'as pas récupéré.
+
+Recherche une autre version disponible sur le domaine officiel.
+
+En dernier recours, utilise une image de remplacement adaptée et identifie-la clairement comme ressource provisoire.
+
+Pour les images hébergées sur des sites tiers, conserve leur provenance et vérifie les droits d'utilisation avant de les intégrer.
+
+Ne prétends jamais qu'une image générique est une photographie officielle de HIGHER GLORY TECHNOLOGIES.
+
+PARTIE 3 — ANALYSE DE L'IDENTITÉ VISUELLE EXISTANTE
+
+La capture d'écran de la page d'accueil actuelle est jointe à ce cahier des charges.
+
+Elle doit servir de référence visuelle prioritaire, en complément du site officiel et du logo original.
+
+3.1. Palette réellement observée
+
+Utilise les couleurs suivantes comme base issue de la capture d'écran fournie :
+
+Bleu marine du bandeau supérieur : #151635
+
+Bordeaux foncé de la bannière Hero : #2E1B1C
+
+Bleu électrique des titres : #3366FF
+
+Rouge des actions et éléments actifs : #D61523
+
+Blanc : #FFFFFF
+
+Anthracite : #242424
+
+Gris clair : #F2F2F2
+
+Analyse aussi les couleurs directement extraites du logo original.
+
+Les couleurs de la capture sont plus importantes que les anciennes propositions de palette.
+
+3.2. Répartition des couleurs
+
+BANDEAU SUPÉRIEUR :
+Bleu marine #151635, textes et icônes blancs, accents rouges.
+
+NAVIGATION :
+Fond blanc, texte anthracite, lien actif rouge.
+
+HERO :
+Bordeaux foncé #2E1B1C, équipements technologiques, effets lumineux rouges.
+
+TITRES :
+Bleu électrique #3366FF pour les expressions importantes.
+
+BOUTONS :
+Rouge #D61523 pour les actions principales.
+
+SECTIONS DE CONTENU :
+Blanc dominant et gris clair secondaire.
+
+TEXTES :
+Anthracite #242424.
+
+LOGO :
+Couleurs originales du fichier, sans modification.
+
+Ne transforme pas l'identité en une marque verte, violette ou turquoise dominante.
+
+L'objectif est une modernisation fidèle, et non une nouvelle identité visuelle.
+
+3.3. Style souhaité
+
+Concevoir une interface corporate moderne et premium.
+
+La nouvelle interface doit conserver les repères visuels de HIGHER GLORY TECHNOLOGIES tout en améliorant :
+
+La hiérarchie des informations.
+
+La typographie.
+
+Les espacements.
+
+La lisibilité.
+
+Les images.
+
+Les menus.
+
+Les boutons.
+
+Les animations.
+
+La navigation mobile.
+
+Éviter les templates génériques de sites informatiques.
+
+PARTIE 4 — POSITIONNEMENT ET CONTENU ÉDITORIAL
+
+Le site doit présenter HIGHER GLORY TECHNOLOGIES comme un fournisseur et intégrateur de solutions technologiques professionnelles.
+
+Il ne faut pas présenter l'entreprise comme un simple magasin vendant du matériel informatique.
+
+Message principal
+
+« Des solutions technologiques pour identifier, tracer, sécuriser et optimiser vos activités. »
+
+Présentation proposée
+
+« HIGHER GLORY TECHNOLOGIES accompagne les entreprises et les institutions dans la fourniture de solutions matérielles et logicielles adaptées à leurs besoins. Spécialisée dans l'identification par cartes et badges, la traçabilité par codes-barres et RFID ainsi que les équipements de gestion des points de vente, l'entreprise propose une approche orientée vers la performance, l'efficacité et l'accompagnement professionnel. »
+
+Cette présentation doit être confrontée aux informations officielles et peut être ajustée selon les résultats de recherche.
+
+Ton rédactionnel
+
+Utiliser un ton :
+
+Professionnel.
+
+Institutionnel.
+
+Commercial.
+
+Rassurant.
+
+Technique lorsque nécessaire.
+
+Accessible aux décideurs non spécialistes.
+
+Rédiger en français correct.
+
+Prévoir une architecture permettant l'ajout de l'anglais dans le futur, sans traduire artificiellement le site dès la première version.
+
+PARTIE 5 — ARCHITECTURE DU NOUVEAU SITE
+
+Le nouveau site doit comporter les pages suivantes.
+
+5.1. ACCUEIL
+
+Page centrale du site.
+
+Elle doit comprendre :
+
+Bandeau supérieur avec horaires et coordonnées.
+
+Header avec logo.
+
+Navigation principale.
+
+Hero avec photographie ou bannière originale récupérée.
+
+Présentation de l'entreprise.
+
+Domaines d'expertise.
+
+Solutions principales.
+
+Produits sélectionnés.
+
+Marques de référence.
+
+Références clients validées.
+
+Services et accompagnement.
+
+Appel à l'action.
+
+Pied de page complet.
+
+Le visiteur doit immédiatement comprendre ce que fait l'entreprise.
+
+Proposition de Hero
+
+Titre :
+
+« L'INNOVATION TECHNOLOGIQUE AU SERVICE DE VOTRE PERFORMANCE »
+
+Texte :
+
+« Découvrez des solutions professionnelles d'identification, de traçabilité, de gestion et de sécurité adaptées aux exigences de votre organisation. »
+
+Boutons :
+
+Découvrir nos solutions.
+
+Contacter notre équipe.
+
+Utilise prioritairement les photographies originales récupérées.
+
+5.2. PAGE À PROPOS
+
+Sections :
+
+Présentation de HIGHER GLORY TECHNOLOGIES.
+
+Notre positionnement.
+
+Nos domaines d'expertise.
+
+Notre approche.
+
+Notre mission, si confirmée.
+
+Nos valeurs, si confirmées.
+
+Notre accompagnement avant-vente et après-vente.
+
+Ne crée pas de fausses dates historiques ou de statistiques.
+
+5.3. PAGE NOS SOLUTIONS
+
+Présenter les grandes catégories de solutions :
+
+Identification et impression de cartes.
+
+Badges professionnels.
+
+Impression d'étiquettes.
+
+Codes-barres.
+
+RFID et traçabilité.
+
+Solutions de point de vente.
+
+Contrôle d'accès.
+
+Vidéosurveillance.
+
+Solutions informatiques.
+
+Gestion électronique documentaire.
+
+Sécurité documentaire.
+
+Projets personnalisés.
+
+Chaque rubrique doit disposer d'une page détaillée, avec des photos appropriées, des descriptions et un bouton de contact.
+
+N'afficher les rubriques dont l'offre actuelle est confirmée qu'après vérification.
+
+5.4. PAGE CATALOGUE
+
+Créer un catalogue professionnel reprenant les produits réellement identifiés dans l'ancien site.
+
+Organiser les produits par catégories.
+
+Pour chaque produit, afficher si disponible :
+
+Photo originale.
+
+Nom.
+
+Marque.
+
+Référence.
+
+Description.
+
+Caractéristiques techniques vérifiées.
+
+Applications.
+
+Bouton de demande de devis.
+
+Prévoir un moteur de recherche.
+
+Prévoir des filtres par catégorie et par marque.
+
+Ne pas inventer de prix ni de disponibilité.
+
+Les références historiques doivent pouvoir être désactivées facilement si elles ne sont plus commercialisées.
+
+5.5. PAGE MARQUES
+
+Présenter les marques identifiées dans les ressources de l'entreprise.
+
+Utiliser les logos récupérés sur le site original.
+
+Créer une grille élégante et responsive.
+
+Un clic sur une marque doit afficher les produits ou catégories correspondants lorsqu'ils existent.
+
+Ne jamais inventer de partenariat officiel.
+
+5.6. PAGE NOS CLIENTS
+
+Réutiliser les logos trouvés sur l'ancienne page « Nos clients », après validation.
+
+Créer une présentation sobre, crédible et professionnelle.
+
+Ne pas afficher de témoignages fictifs.
+
+Ne pas inventer de contrats ou de résultats commerciaux.
+
+5.7. PAGE ÉVÉNEMENTS
+
+Explorer l'ancienne page et les autres sources accessibles.
+
+S'il existe des événements réels, présenter leurs photos, dates, descriptions et publications.
+
+Si aucune information vérifiable n'est disponible, préparer une page administrable vide avec un état élégant indiquant que les actualités seront prochainement publiées.
+
+Ne pas inventer des événements.
+
+5.8. PAGE CONTACT
+
+Afficher les coordonnées vérifiées.
+
+Créer un formulaire professionnel comprenant :
+
+Nom.
+
+Prénom.
+
+Entreprise.
+
+Adresse e-mail.
+
+Téléphone.
+
+Sujet.
+
+Message.
+
+Prévoir :
+
+Validation.
+
+Gestion des erreurs.
+
+Message de réussite uniquement après envoi effectif.
+
+Ajouter un bouton WhatsApp utilisant le numéro officiel vérifié.
+
+Ajouter les horaires et la localisation confirmée.
+
+PARTIE 6 — FONCTIONNALITÉS COMMERCIALES
+
+Créer une fonctionnalité de demande de devis.
+
+Le visiteur peut sélectionner plusieurs produits dans le catalogue puis constituer une demande regroupée.
+
+La demande contient :
+
+Nom.
+
+Organisation.
+
+E-mail.
+
+Téléphone.
+
+Produits sélectionnés.
+
+Quantités.
+
+Besoins particuliers.
+
+Message complémentaire.
+
+Prévoir :
+
+Ajout et suppression de produits.
+
+Modification des quantités.
+
+Récapitulatif.
+
+Validation des informations.
+
+Transmission réelle de la demande si un backend est configuré.
+
+Alternative WhatsApp si nécessaire.
+
+Il s'agit d'un système de demande de devis, et non d'un système de paiement.
+
+Tous les boutons doivent être fonctionnels.
+
+Ne crée pas de confirmations fictives pour les formulaires.
+
+PARTIE 7 — DESIGN ET EXPÉRIENCE UTILISATEUR
+
+Je veux un résultat comparable à un site corporate technologique international.
+
+Le design doit être visuellement travaillé.
+
+Utiliser :
+
+Une typographie moderne.
+
+De grands visuels.
+
+Des mises en page aérées.
+
+Une grille cohérente.
+
+Des cartes de produits raffinées.
+
+Des animations légères.
+
+Des transitions fluides.
+
+Des icônes professionnelles.
+
+Des boutons cohérents.
+
+Ne pas surcharger les pages.
+
+La navigation doit rester intuitive.
+
+Le site doit être parfaitement adapté :
+
+Aux ordinateurs.
+
+Aux tablettes.
+
+Aux smartphones.
+
+Prévoir un menu mobile de qualité.
+
+PARTIE 8 — ARCHITECTURE TECHNIQUE
+
+Utiliser une architecture moderne et maintenable.
+
+Technologies recommandées :
+
+React.
+
+TypeScript.
+
+Vite.
+
+Tailwind CSS.
+
+React Router.
+
+Lucide React.
+
+Respecter l'environnement existant si un projet est déjà initialisé et fonctionnel.
+
+Séparer correctement :
+
+Pages.
+
+Composants.
+
+Layouts.
+
+Données produits.
+
+Données de l'entreprise.
+
+Configuration.
+
+Styles.
+
+Assets.
+
+Formulaires.
+
+Services.
+
+Navigation.
+
+Centraliser les informations modifiables dans des fichiers de configuration.
+
+Prévoir une architecture évolutive permettant d'ajouter ultérieurement un espace d'administration et un véritable système de gestion du catalogue.
+
+Ne pas construire un backend inutile si les fonctionnalités initiales peuvent être correctement réalisées autrement.
+
+PARTIE 9 — SEO ET PERFORMANCE
+
+Optimiser chaque page pour le référencement.
+
+Prévoir :
+
+Titres SEO.
+
+Meta descriptions.
+
+Hiérarchie correcte des titres.
+
+URLs propres.
+
+Sitemap.
+
+Robots.txt.
+
+Open Graph.
+
+Balises alt.
+
+Données structurées adaptées.
+
+Optimisation des images.
+
+Chargement différé.
+
+Bonnes performances mobiles.
+
+Travailler notamment les expressions :
+
+Higher Glory Technologies Cameroun.
+
+Imprimante à badges Douala.
+
+Imprimante cartes PVC Cameroun.
+
+Solutions RFID Cameroun.
+
+Lecture de codes-barres.
+
+Équipements de point de vente.
+
+Identification professionnelle.
+
+Contrôle d'accès.
+
+Solutions technologiques pour entreprises.
+
+PARTIE 10 — FIABILITÉ ET VÉRIFICATION DES INFORMATIONS
+
+Il est interdit d'inventer :
+
+Les années d'existence.
+
+Les certifications.
+
+Les partenariats officiels.
+
+Les témoignages.
+
+Les clients.
+
+Les chiffres commerciaux.
+
+Les statistiques.
+
+Les tarifs.
+
+Les disponibilités.
+
+Les coordonnées.
+
+Les événements.
+
+Les caractéristiques techniques non vérifiées.
+
+Lorsque des informations sont contradictoires entre les sources, signale cette contradiction et privilégie la source officielle la plus récente.
+
+Pour les informations manquantes, utilise des champs configurables plutôt que de fabriquer une réponse.
+
+Les contenus historiques doivent être clairement distingués des informations actuelles.
+
+PARTIE 11 — LIVRABLES ET EXÉCUTION
+
+À la fin, le projet doit contenir :
+
+Le site complet et fonctionnel.
+
+Toutes les pages demandées.
+
+Le logo original intégré.
+
+Les images originales récupérées.
+
+Les ressources graphiques du site précédent.
+
+Le catalogue.
+
+Les fiches produits.
+
+La recherche et les filtres.
+
+Le système de demande de devis.
+
+Les formulaires.
+
+Le bouton WhatsApp.
+
+Le responsive design.
+
+Les métadonnées SEO.
+
+Le code source organisé.
+
+Le fichier README.
+
+Le manifeste des ressources extraites.
+
+Un rapport de recherche sur l'entreprise.
+
+Une liste des informations restant à confirmer.
+
+Créer notamment les fichiers :
+
+COMPANY_RESEARCH.md
+ASSETS_MANIFEST.json
+README.md
+
+COMPANY_RESEARCH.md doit contenir :
+
+La présentation de l'entreprise.
+
+Les informations trouvées.
+
+Les sources consultées.
+
+Les activités confirmées.
+
+Les marques identifiées.
+
+Les coordonnées.
+
+Les éventuelles contradictions.
+
+Les informations à valider.
+
+ASSETS_MANIFEST.json doit détailler les ressources récupérées et leur provenance.
+
+README.md doit expliquer :
+
+Les technologies utilisées.
+
+L'installation.
+
+Le lancement.
+
+La structure du projet.
+
+La configuration.
+
+Le déploiement.
+
+PARTIE 12 — ORDRE DE TRAVAIL OBLIGATOIRE
+
+Respecte cet ordre :
+
+ÉTAPE 1 : Explorer le site officiel et toutes ses pages accessibles.
+
+ÉTAPE 2 : Faire des recherches complémentaires sur l'entreprise.
+
+ÉTAPE 3 : Construire un résumé documentaire fiable de HIGHER GLORY TECHNOLOGIES.
+
+ÉTAPE 4 : Extraire le logo, les images, les photographies, les logos des fabricants, les références clients et les autres ressources utilisables.
+
+ÉTAPE 5 : Organiser les ressources dans le dossier public/assets.
+
+ÉTAPE 6 : Analyser les couleurs réelles de la capture d'écran fournie et du logo original.
+
+ÉTAPE 7 : Définir le design system et l'architecture du nouveau site.
+
+ÉTAPE 8 : Développer toutes les pages et les fonctionnalités.
+
+ÉTAPE 9 : Tester la navigation, les interactions, les formulaires, l'affichage mobile et les images.
+
+ÉTAPE 10 : Livrer le projet et les documents de recherche.
+
+Ne t'arrête pas à la phase d'analyse : après avoir effectué la recherche et organisé les ressources, poursuis directement le développement.
+
+Si l'environnement ne permet pas d'accéder à une ressource, indique précisément la limitation et continue avec les autres ressources disponibles. Ne prétends jamais avoir téléchargé un fichier qui ne l'a pas été.
+
+INSTRUCTION FINALE
+
+Je veux une véritable refonte professionnelle du site officiel de HIGHER GLORY TECHNOLOGIES.
+
+La priorité est de respecter l'entreprise réelle, son positionnement, ses produits, ses services et surtout son identité visuelle.
+
+Privilégie les photos, le logo, les marques et les ressources authentiques extraites du site actuel plutôt que des images génériques.
+
+Le nouveau site doit représenter une évolution considérable de l'ancienne plateforme tout en conservant les éléments qui permettent de reconnaître immédiatement HIGHER GLORY TECHNOLOGIES.
+
+Commence maintenant par la recherche et l'extraction des ressources, puis réalise le site complet.

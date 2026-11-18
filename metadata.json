@@ -1,0 +1,6 @@
+{
+  "name": "Higher Glory Technologies",
+  "description": "Fournisseur et intégrateur de solutions matérielles et logicielles professionnelles à Douala, Cameroun : identification par cartes PVC et badges, traçabilité codes-barres et RFID, points de vente et sécurité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
